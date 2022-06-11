@@ -1,3 +1,8 @@
+#include <MPU6050.h>
+
+
+
+
 #define PUL1_PIN 13
 #define DIR1_PIN 12
 #define PUL2_PIN 11
@@ -8,7 +13,7 @@
 #define DIR4_PIN 6
 
 
-int stepCount = 10000;
+int stepCount = 200;
  
 void setup(){
     pinMode(PUL1_PIN, OUTPUT);
@@ -33,14 +38,16 @@ void loop(){
         digitalWrite(PUL2_PIN, HIGH);
         digitalWrite(PUL3_PIN, HIGH);
         digitalWrite(PUL4_PIN, HIGH);
-        delayMicroseconds(500);
+        delayMicroseconds(800);
         digitalWrite(PUL1_PIN, LOW);
         digitalWrite(PUL2_PIN, LOW);
         digitalWrite(PUL3_PIN, LOW);
         digitalWrite(PUL4_PIN, LOW);
-        delayMicroseconds(500);
+        delayMicroseconds(800);
         
     }
- 
+    
+
     delay(1000);
 }
+ 

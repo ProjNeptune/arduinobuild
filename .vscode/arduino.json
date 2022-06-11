@@ -1,0 +1,5 @@
+{
+    "sketch": "basicstepper\\basicstepper.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
