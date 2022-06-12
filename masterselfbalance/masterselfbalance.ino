@@ -1,3 +1,4 @@
+//THIS CODE DOES NOT WORK!! DO NOT USE IT, IT WILL ONLY BRING NOTHING BUT SADNESS AND SORROW.
 //Libraries needed:
 #include <Wire.h>
 #include "I2Cdev.h"
