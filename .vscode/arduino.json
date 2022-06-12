@@ -1,5 +1,5 @@
 {
-    "sketch": "basicstepper\\basicstepper.ino",
+    "sketch": "masterselfbalance\\masterselfbalance.ino",
     "board": "arduino:avr:uno",
     "port": "COM3"
 }

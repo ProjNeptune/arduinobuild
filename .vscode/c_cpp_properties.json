@@ -17,12 +17,13 @@
             "includePath": [
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src",
+                "C:\\Users\\vinsh\\Documents\\Arduino\\libraries\\I2Cdev",
+                "C:\\Users\\vinsh\\Documents\\Arduino\\libraries\\MPU6050",
                 "C:\\Users\\vinsh\\Documents\\Arduino\\libraries\\SpeedyStepper\\src",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include-fixed",
-                "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include",
-                "C:\\Users\\vinsh\\Documents\\Arduino\\libraries\\Arduino-MPU6050-master",
-                "C:\\Users\\vinsh\\Documents\\Arduino\\libraries\\Wire"
+                "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include"
             ],
             "forcedInclude": [
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
