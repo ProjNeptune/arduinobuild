@@ -1,5 +1,6 @@
 {
-    "sketch": "masterselfbalance\\masterselfbalance.ino",
-    "board": "arduino:avr:uno",
-    "port": "COM3"
+    "sketch": "mastercontrol\\mastercontrol.ino",
+    "board": "arduino:avr:mega",
+    "port": "COM4",
+    "configuration": "cpu=atmega2560"
 }
