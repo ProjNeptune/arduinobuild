@@ -1,6 +1,5 @@
 {
-    "sketch": "mastercontrol\\mastercontrol.ino",
-    "board": "arduino:avr:mega",
-    "port": "COM4",
-    "configuration": "cpu=atmega2560"
+    "sketch": "master\\master.ino",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega"
 }
